@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2872c2b.css",
-    "main.js": "/static/js/main.ac25055a.js",
-    "static/js/453.69af4b5a.chunk.js": "/static/js/453.69af4b5a.chunk.js",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.a2872c2b.css.map": "/static/css/main.a2872c2b.css.map",
-    "main.ac25055a.js.map": "/static/js/main.ac25055a.js.map",
-    "453.69af4b5a.chunk.js.map": "/static/js/453.69af4b5a.chunk.js.map"
+    "main.css": "/planet_project/static/css/main.48df1484.css",
+    "main.js": "/planet_project/static/js/main.1277dc2b.js",
+    "static/js/453.69af4b5a.chunk.js": "/planet_project/static/js/453.69af4b5a.chunk.js",
+    "static/media/slick.svg": "/planet_project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/planet_project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/planet_project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/planet_project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/planet_project/index.html",
+    "main.48df1484.css.map": "/planet_project/static/css/main.48df1484.css.map",
+    "main.1277dc2b.js.map": "/planet_project/static/js/main.1277dc2b.js.map",
+    "453.69af4b5a.chunk.js.map": "/planet_project/static/js/453.69af4b5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2872c2b.css",
-    "static/js/main.ac25055a.js"
+    "static/css/main.48df1484.css",
+    "static/js/main.1277dc2b.js"
   ]
 }
